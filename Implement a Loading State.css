@@ -1,0 +1,8 @@
+//U59555732
+/* CSS (`styles.css`) */
+.loading-message {
+    display: none;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
